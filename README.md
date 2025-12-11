@@ -5,8 +5,6 @@ This repository explores the dynamical stability of dark energy, with a focus on
 - Phase-space analysis of scalar field dark energy models.
 - Stability conditions for different potentials (e.g., exponential, power-law).
 
-Comparison with observational constraints (e.g., Planck data, supernovae, BAO).
-
 
 🛠️ Requirements
 - Python (with numpy, scipy, matplotlib) or Mathematica (if used).
@@ -14,3 +12,5 @@ Comparison with observational constraints (e.g., Planck data, supernovae, BAO).
 
 📚 References
 Copeland, Sami, & Tsujikawa (2006) – Dynamics of Dark Energy
+
+# In my Personal-Calculations-Papers repository, you will find detailed cosmological calculations and beautifully crafted phase portraits. This is just Phase trajectory on Python.
