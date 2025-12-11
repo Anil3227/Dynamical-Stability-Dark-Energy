@@ -13,4 +13,4 @@ This repository explores the dynamical stability of dark energy, with a focus on
 📚 References
 Copeland, Sami, & Tsujikawa (2006) – Dynamics of Dark Energy
 
-# In my Personal-Calculations-Papers repository, you will find detailed cosmological calculations and beautifully crafted phase portraits. This is just Phase trajectory on Python.
+" In my Personal-Calculations-Papers repository, you will find detailed cosmological calculations and beautifully crafted phase portraits. This is just Phase trajectory on Python."
